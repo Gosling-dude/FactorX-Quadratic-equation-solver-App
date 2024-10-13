@@ -33,7 +33,6 @@
 - **Libraries**:
   - **MPAndroidChart**: For graphing the quadratic equations and visualizing the parabolas.
   - **Apache Commons Math**: For accurate calculation of roots, including complex numbers if needed.
-  - **Retrofit** (optional): If you plan to integrate any future API functionalities.
 
 ## Installation
 
@@ -54,7 +53,9 @@ Contributions, [issues](https://github.com/Gosling-dude/FactorX-Quadratic-equati
 
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
+
 Email: [sc5271027@gmail.com](sc5271027@gmail.com)
+
 GitHub: [Sumit Chauhan](https://github.com/Gosling-dude)
 
 Thank you for using QuadraSolver!
