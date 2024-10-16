@@ -1,17 +1,17 @@
-# QuadraSolver
+# FactorX: Quadratic Equation Solver
 
-**QuadraSolver** is a fast and intuitive app designed to solve quadratic equations with ease. Whether you're a student or a math enthusiast, this app simplifies the process of solving quadratic equations, providing accurate results and a smooth user experience.
+**FactorX** is a fast and intuitive app designed to solve quadratic equations with ease. Whether you're a student or a math enthusiast, this app simplifies the process of solving quadratic equations, providing accurate results and a smooth user experience.
 
 ## Features
 
-- **Instant Solutions**: Input the coefficients of a quadratic equation, and QuadraSolver instantly calculates the roots.
+- **Instant Solutions**: Input the coefficients of a quadratic equation, and FactorX instantly calculates the roots.
 - **Step-by-Step Solutions**: Get a detailed breakdown of each step involved in solving the quadratic equation.
 - **Graph Visualization**: View a graphical representation of the equation, helping you understand the shape and behavior of the quadratic function.
-- **User-Friendly Interface**: Designed for simplicity, QuadraSolver ensures ease of use for all age groups and proficiency levels.
+- **User-Friendly Interface**: Designed for simplicity, FactorX ensures ease of use for all age groups and proficiency levels.
 
 ## How to Use
 
-1. Open the QuadraSolver app.
+1. Open the FactorX app.
 2. Enter the values for the coefficients (a, b, c) of the quadratic equation in the form `ax² + bx + c = 0`.
 3. Press the **Solve** button.
 4. The app will display:
@@ -38,7 +38,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/QuadraSolver.git
+   git clone https://github.com/Gosling-dude/FactorX-Quadratic-equation-solver-App
 Open the project in your preferred development environment (e.g., Android Studio).
 
 Build and run the project on your local machine or emulator.
@@ -58,4 +58,4 @@ Email: [sc5271027@gmail.com](sc5271027@gmail.com)
 
 GitHub: [Sumit Chauhan](https://github.com/Gosling-dude)
 
-Thank you for using QuadraSolver!
+Thank you for using FactorX!
